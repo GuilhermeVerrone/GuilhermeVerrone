@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o Guilherme Verrone
 
 🎓 Estudante de **Sistemas de Informação** na Universidade Santa Cecília (UNISANTA)  
-📍 Santos - SP | 🇧🇷 Brasil  
+📍 Santos - SP | Brasil  
 💻 Apaixonado por tecnologia, desenvolvimento web, dados e cibersegurança  
 🚀 Em busca de novos desafios e oportunidades na área de **Desenvolvimento e Tecnologia da Informação**
 
