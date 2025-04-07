@@ -7,37 +7,41 @@
 
 ---
 
+## 🛠️ Tecnologias & Ferramentas
+
+### 🚀 Linguagens & Frameworks  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=fff)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
+![C Sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=fff)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=fff)
+
+### 🗄️ Banco de Dados  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
+![Access](https://img.shields.io/badge/MS%20Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=fff)
+
+### 💻 Ferramentas & IDEs  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=fff)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=fff)
+![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
+
+### 🎨 Design & UI  
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=fff)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=fff)
+
+---
+
 ## 💡 Sobre Mim
 
 Sou um desenvolvedor em formação com base sólida em **tecnologias web, linguagens de programação** e **banco de dados**. Tenho uma forte paixão por aprender e evoluir continuamente como profissional. Atualmente, sou estagiário de TI no INSS, atuando com suporte técnico, organização documental e atendimento ao usuário.
 
 Também possuo experiência em design gráfico e comunicação institucional adquirida durante meu tempo no Exército Brasileiro, o que me proporcionou habilidades como disciplina, organização e trabalho em equipe.
-
----
-
-## 🧰 Tecnologias & Ferramentas
-
-**Linguagens & Frameworks**  
-- HTML, CSS, JavaScript, TypeScript  
-- Angular, Node.js  
-- Python, C#, C++
-
-**Banco de Dados**  
-- MySQL, Microsoft Access
-
-**Ferramentas & IDEs**  
-- Git & GitHub  
-- Visual Studio, VS Code, MySQL Workbench
-
-**Design & UI**  
-- Adobe Photoshop & Illustrator  
-- UI Design básico
-
-**Outros**  
-- Noções de Cibersegurança  
-- Pacote Office (Excel, Word, PowerPoint)
-
----
 
 ## 📘 Formação Acadêmica
 
