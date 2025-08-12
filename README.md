@@ -26,11 +26,17 @@
 
 ## 💡 Sobre Mim
 
-Sou Desenvolvedor Web e Full-Stack apaixonado por criar soluções tecnológicas eficientes e escaláveis. Tenho experiência sólida no desenvolvimento de aplicações modernas utilizando HTML, CSS, JavaScript e TypeScript, com foco em frameworks como Angular para front-end e Express para back-end.
+Sou apaixonado por tecnologia e desenvolvimento de software. Estou em constante evolução, sempre buscando aprender novas ferramentas, linguagens e boas práticas. Tenho facilidade em me adaptar a diferentes desafios e ambientes, e estou disposto a aprender de forma rápida e eficiente sempre que necessário.
 
-Além disso, trabalho com PHP para projetos específicos e possuo conhecimento aprofundado em bancos de dados relacionais (MySQL) e NoSQL (MongoDB), garantindo a integridade e performance das aplicações.
+Atuo com desenvolvimento Front-end, utilizando tecnologias como HTML, CSS, Bootstrap, Tailwind, JavaScript, TypeScript, React (com Hooks e Redux), Next.js e Angular.
 
-Busco constantemente aprimorar minhas habilidades e estar atualizado com as melhores práticas de desenvolvimento, sempre com foco em entregar produtos de alta qualidade que atendam às necessidades dos usuários e dos negócios.
+No Back-end, trabalho com Node.js, Express.js, PHP, C#, .NET, Python e também utilizo o Knex.js para facilitar integrações com bancos de dados.
+
+Tenho experiência com bancos de dados SQL e NoSQL, incluindo MySQL, PostgreSQL e MongoDB.
+
+Também possuo conhecimento em versionamento de código com Git, uso de containers com Docker, além de práticas de deploy manual e automatizado.
+
+Prezo por código limpo e bem estruturado, seguindo princípios de Clean Code, SOLID e arquitetura baseada em MVC.
 
 ---
 
